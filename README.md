@@ -22,3 +22,5 @@ Check out the prototype here: [VeriLens Demo](https://prototype-vision-craft.net
 - Enterprise-ready APIs for secure deployment  
 
 ---
+
+
